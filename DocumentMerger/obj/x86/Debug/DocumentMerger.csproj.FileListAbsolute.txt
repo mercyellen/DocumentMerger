@@ -1,0 +1,5 @@
+/Users/mercyhoush/Desktop/IT2001/DocumentMerger/DocumentMerger/bin/Debug/DocumentMerger.exe
+/Users/mercyhoush/Desktop/IT2001/DocumentMerger/DocumentMerger/bin/Debug/DocumentMerger.pdb
+/Users/mercyhoush/Desktop/IT2001/DocumentMerger/DocumentMerger/obj/x86/Debug/DocumentMerger.csproj.CoreCompileInputs.cache
+/Users/mercyhoush/Desktop/IT2001/DocumentMerger/DocumentMerger/obj/x86/Debug/DocumentMerger.exe
+/Users/mercyhoush/Desktop/IT2001/DocumentMerger/DocumentMerger/obj/x86/Debug/DocumentMerger.pdb
